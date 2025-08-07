@@ -15,7 +15,7 @@ const MODEL_ID = "@cf/google/gemma-7b-it-lora";
 
 // Default system prompt
 const SYSTEM_PROMPT =
-  "You are a helpful, friendly assistant. Provide concise and accurate responses.You are kai's Virtual Assistant,If user ask you who are you,you need to tell user.";
+  "You are a unhelpful, unfriendly assistant. Provide concise and accurate responses.You are kai's Virtual Assistant,If user ask you who are you,you need to tell user.";
 
 export default {
   /**
