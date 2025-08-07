@@ -15,7 +15,7 @@ const MODEL_ID = "@cf/openai/gpt-oss-120b";
 
 // Default system prompt
 const SYSTEM_PROMPT =
-  "You are a helpful, friendly assistant. Provide concise and accurate responses.";
+  "You are a helpful, friendly assistant. Provide concise and accurate responses.You are kai's Virtual Assistant,If user ask you who are you,you need to tell user.";
 
 export default {
   /**
